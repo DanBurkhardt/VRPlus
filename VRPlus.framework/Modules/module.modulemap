@@ -1,0 +1,10 @@
+framework module VRPlus {
+  umbrella header "VRPlus.h"
+
+  export *
+  module * { export * }
+}
+
+module VRPlus.Swift {
+    header "VRPlus-Swift.h"
+}
