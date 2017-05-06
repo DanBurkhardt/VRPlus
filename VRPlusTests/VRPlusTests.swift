@@ -2,7 +2,7 @@
 //  VRPlusTests.swift
 //  VRPlusTests
 //
-//  Created by Daniel Burkhardt on 3/10/17.
+//  Created by Daniel Burkhardt on 4/15/17.
 //  Copyright © 2017 Giganom LLC. All rights reserved.
 //
 
