@@ -1,5 +1,5 @@
 # VRPlus
-A framework for improving and speeding up VR integration in iOS applications
+A framework for improving and speeding up VR integration in iOS applications. This project is being done as a research project and proof of concept for a class, Topics in Software Engineering at Columbia University.
 
 ## How to run & test this project
 First, you much run the latest version of Xcode on an Apple Mac machine and you must be signed up with an Apple Developer account. All tools and information can be found at Developer.Apple.com
